@@ -52,7 +52,6 @@ public class LineComparision {
 
 	public static void main(String[] args) {
 
-		Scanner scan1 = new Scanner(System.in);
 		LineComparision obj = new LineComparision();
 
                 //Taking input for line 1
